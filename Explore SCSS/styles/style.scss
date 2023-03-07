@@ -1,0 +1,11 @@
+$primary-color:red;
+
+h1{
+    background-color: black;
+    color: white;
+}
+
+p{
+    background-color: $primary-color;
+    color: white;
+}
